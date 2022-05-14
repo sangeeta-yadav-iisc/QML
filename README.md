@@ -1,6 +1,6 @@
 ## Quantum Computing Summer School
 
-<img src="https://github.com/shongi-yd/QML/blob/main/img/Quantum_Machine_Learning.jpg" width="1000"/>>
+<img src="https://github.com/shongi-yd/QML/blob/main/img/Quantum_Machine_Learning.jpg" width="100"/>>
 
 All the notifications will be posted here
 
