@@ -1,16 +1,8 @@
 # Hyde
 
-<<<<<<< HEAD
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
-=======
-<img src="https://github.com/shongi-yd/QML/blob/main/img/Quantum_Machine_Learning.jpg" width="300"/>
-
-All the notifications will be posted here
-
-14 May 2022: Next meeting is on Tuesday 3 pm. 
->>>>>>> d43c51881c104e3120e7cdbabb73bbf186556bf1
 
 
 ## Contents
