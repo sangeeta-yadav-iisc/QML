@@ -3,8 +3,7 @@
 
 All the notifications will be posted here
 
-14 May 2022: Next meeting is on Tuesday 3 pm. 
-Lets check
+
 
 
 
